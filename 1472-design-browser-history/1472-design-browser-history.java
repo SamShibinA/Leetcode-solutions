@@ -1,31 +1,42 @@
 class BrowserHistory {
      
-     private String[] map;
-     private int current;
-     private int last;
-
+    class Node{
+        Node pre;
+        Node next;
+        String val;
+        Node(String val){
+            this.val=val;
+            pre=null;
+            next=null;
+        }
+    } 
      
+    private Node current;
     public BrowserHistory(String homepage) {
-        map=new String[5001];
-        current=0;
-        map[current]=homepage;
-        last=0;
+        current=new Node(homepage);
     }
     
     public void visit(String url) {
-        current++;
-        map[current]=url;
-        last=current;
+        Node newnode=new Node(url);
+        current.next=newnode;
+        newnode.pre=current;
+        current=newnode;
     }
     
     public String back(int steps) {
-        current=Math.max(0,current-steps);
-        return map[current];
+        while(steps>0&&current.pre!=null){
+            steps--;
+            current=current.pre;
+        }
+        return current.val;
     }
     
     public String forward(int steps) {
-        current=Math.min(last,current+steps);
-        return map[current];
+            while(steps>0&&current.next!=null){
+            steps--;
+            current=current.next;
+            }
+        return current.val;
     }
 }
 
