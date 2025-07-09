@@ -8,7 +8,7 @@ class Solution {
                 stack.pop();
             }
 
-            if(stack.peek()<n){
+            if(stack.peek()!=n){
             operations++;
             stack.push(n);
             }
