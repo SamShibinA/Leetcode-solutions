@@ -21,7 +21,7 @@ class Solution {
 
         boolean l=isValidBST(root.left);
 
-        if(!stack.isEmpty()&&stack.peek()>root.val)return false;
+        if(!stack.isEmpty()&&stack.peek()>=root.val)return false;
         stack.push(root.val);
 
         boolean r=isValidBST(root.right);
