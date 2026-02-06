@@ -1,26 +1,23 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        return backspace(s).equals(backspace(t));
+        return removeBackspaces(s).equals(removeBackspaces(t));
     }
 
-    public static String backspace(String st){
-        Stack<Character> s=new Stack<>();
+    public String removeBackspaces(String str){
+        char[] result=str.toCharArray();
 
-        char[] ch=st.toCharArray();
-        for(char c:ch){
-            if(c!='#'){
-                s.push(c);
+        int read=0,write=0;
+
+        while(read<str.length()){
+            if(result[read]!='#'){
+                result[write++]=result[read];
             }
             else{
-                if(!s.isEmpty())
-                s.pop();
+                if(write>0)write--;
             }
+            read++;
+        }
 
-        }
-        StringBuilder sb=new StringBuilder();
-        for(char c:s){
-            sb.append(c);
-        }
-        return sb.toString();
+        return new String(result,0,write);
     }
 }
