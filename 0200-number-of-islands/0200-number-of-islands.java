@@ -1,36 +1,53 @@
 class Solution {
-    int width,height;
+    class Pair{
+        int i,j;
+        Pair(int i,int j){
+            this.i=i;
+            this.j=j;
+        }
+    }
+    int ilen,jlen;
+
+
     public int numIslands(char[][] grid) {
-        this.height=grid.length;
-        this.width=grid[0].length;
-
+        Queue<Pair> queue=new LinkedList<>();
         int count=0;
-        boolean[][] visited=new boolean[height][width];
+        ilen=grid.length;
+        jlen=grid[0].length;
 
-        for(int i=0;i<height;i++){
-        for(int j=0;j<width;j++)
-        {
-            if(grid[i][j]=='1' && findArea(grid,visited,i,j)>0){
-                count++;
+        boolean[][] visited=new boolean[ilen][jlen];
+
+        for(int i=0;i<ilen;i++){
+            for(int j=0;j<jlen;j++){
+                if(!visited[i][j] && grid[i][j]=='1'){
+                    queue.offer(new Pair(i,j));
+                    visited[i][j]=true;
+                    count++;
+                }
+
+                while(!queue.isEmpty()){
+                    Pair pair=queue.poll();
+                    
+                    int[] direction_i={-1,0,1,0};
+                    int[] direction_j={0,1,0,-1};
+
+                    for(int d=0;d<4;d++){
+                        int d_i=pair.i+direction_i[d];
+                        int d_j=pair.j+direction_j[d];
+                        if(isValid(d_i,d_j,grid,visited)){
+                            queue.offer(new Pair(d_i,d_j));
+                            visited[d_i][d_j]=true;
+                        }
+                    }
+
+                }
             }
-        }
-        }
 
+        }
         return count;
     }
 
-    public int findArea(char[][] grid,boolean[][] visited,int i,int j){
-        if(i<0||j<0||i>=height||j>=width|| grid[i][j]=='0'||visited[i][j])return 0;
-
-        int sum=1;
-        visited[i][j]=true;
-
-        sum+=findArea(grid,visited,i-1,j);
-        sum+=findArea(grid,visited,i,j+1);
-        sum+=findArea(grid,visited,i+1,j);
-        sum+=findArea(grid,visited,i,j-1);
-
-        return sum;
-
+    public boolean isValid(int i,int j,char[][] grid,boolean[][] visited){
+        return i>=0 && i<ilen && j>=0 && j<jlen && !visited[i][j] && grid[i][j]=='1';
     }
 }
