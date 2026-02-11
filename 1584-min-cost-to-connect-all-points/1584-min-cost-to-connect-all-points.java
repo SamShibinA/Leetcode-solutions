@@ -33,11 +33,11 @@ class Solution {
             return parent[x];
         }
 
-        public void union(int u,int v){
+        public boolean union(int u,int v){
             
-            int u_root=parent[u];
-            int v_root=parent[v];
-            if(u_root==v_root)return;
+            int u_root=find(u);
+            int v_root=find(v);
+            if(u_root==v_root)return false;
 
             if(rank[u_root]>rank[v_root]){
                 parent[v_root]=u_root;
@@ -49,6 +49,7 @@ class Solution {
                 parent[v_root]=u_root;
                 rank[u_root]++;
             }
+            return true;
         }
     }
 
@@ -70,13 +71,11 @@ class Solution {
 
         while(!pq.isEmpty()){
             Edge node=pq.poll();
-            
-            if(dsu.find(node.u)==dsu.find(node.v)){
-                continue;
-            }
 
-            dsu.union(node.u,node.v);
+            
+            if(dsu.union(node.u,node.v)){
             answer+=node.w;
+            }
         }
 
 
