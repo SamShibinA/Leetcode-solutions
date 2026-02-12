@@ -14,34 +14,35 @@
  * }
  */
 class Solution {
-
-    public TreeNode findmin(TreeNode root){
-        if(root==null)return root;
-
-        while(root.left!=null)root=root.left;
-
-        return root;
-    }
-
     public TreeNode deleteNode(TreeNode root, int key) {
-        if(root==null)return root;
+        if(root==null) return null;
 
-        if(key>root.val){
-            root.right=deleteNode(root.right,key);
-        }
-        else if(key<root.val){
+        if(key<root.val){
             root.left=deleteNode(root.left,key);
         }
+        else if(key>root.val){
+            root.right=deleteNode(root.right,key);
+        }
         else{
-            if(root.left==null&&root.right==null)return null;
-            else if(root.left==null)return root.right;
-            else if(root.right==null)return root.left;
+            if(root.right==null && root.left==null) return null;
+            else if(root.left==null){
+                return root.right;
+            }
+            else if(root.right==null){
+                return root.left;
+            }
             else{
-                TreeNode min=findmin(root.right);
+                TreeNode min=findMin(root.right);
                 root.val=min.val;
                 root.right=deleteNode(root.right,min.val);
             }
         }
+        return root;
+    }
+
+    public TreeNode findMin(TreeNode root){
+        if(root==null) return null;
+        while(root.left!=null)root=root.left;
         return root;
     }
 }
