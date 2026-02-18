@@ -1,37 +1,18 @@
 class Solution {
-
-    class Pair{
-        int step;
-        int idx;
-        Pair(int i,int s){
-            idx=i;
-            step=s;
-        }
-    }
-
     public int jump(int[] nums) {
+        int jumps=0;
+        int end=0;
+        int farthest=0;
 
-        Queue<Pair>q=new LinkedList<>();
-        q.add(new Pair(0,0));
+        for(int i=0;i<nums.length-1;i++){
+            farthest=Math.max(farthest,i+nums[i]);
 
-        int n=nums.length-1;
-
-        while(!q.isEmpty()){
-            Pair curr=q.poll();
-
-            if(curr.idx==n)return curr.step;
-
-            if(nums[curr.idx]<0)continue;
-
-            for(int i=1;i<=nums[curr.idx];i++){
-                int nidx=curr.idx+i;
-
-                if(nidx<=n)q.offer(new Pair(nidx,curr.step+1));
-            } 
-
-            nums[curr.idx]=-nums[curr.idx];
+            if(i==end){
+                jumps++;
+                end=farthest;
+            }
         }
 
-        return -1;
+        return jumps;
     }
 }
