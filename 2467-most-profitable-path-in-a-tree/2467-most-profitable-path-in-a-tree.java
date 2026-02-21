@@ -39,17 +39,17 @@ class Solution {
                 c_amount+=(amount[node]/2);
             }
 
-            int add=0;
+            boolean isLeaf=true;
 
             for(int nei:adj.get(node)){
                 if(!set.contains(nei)){
                     q.offer(new int[]{nei,time+1,c_amount});
                     set.add(nei);
-                    add++;
+                    isLeaf=false;
                 }
             }
 
-            if(add==0)alice=Math.max(alice,c_amount);
+            if(isLeaf)alice=Math.max(alice,c_amount);
 
         }
 
