@@ -1,21 +1,25 @@
 class Solution {
-    List<List<Integer>> ans=new ArrayList<>();
+    List<List<Integer>> answer;
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<Integer> temp=new ArrayList<>();
-        combinationSum(candidates,target,0,temp,0);
-        return ans;
+        answer=new ArrayList<>();
+
+        traverse(new ArrayList<>(),candidates,target,0,0);
+
+        return answer;
     }
 
-    public void combinationSum(int[] candidate,int target,int index,List<Integer> temp,int sum){
-        if(sum>target) return;
+    public void traverse(List<Integer> temp,int[] candidates,int target,int sum,int idx){
+        if(sum > target) return;
+
         if(sum==target){
-            ans.add(new ArrayList<>(temp));
-            return;
+            answer.add(new ArrayList<>(temp));
         }
 
-        for(int i=index;i<candidate.length;i++){
-            temp.add(candidate[i]);
-            combinationSum(candidate,target,i,temp,sum+candidate[i]);
+        for(int i=idx;i<candidates.length;i++){
+            temp.add(candidates[i]);
+
+            traverse(temp,candidates,target,sum + candidates[i],i);
+
             temp.remove(temp.size()-1);
         }
     }
