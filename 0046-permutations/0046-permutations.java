@@ -1,28 +1,34 @@
 class Solution {
-    List<List<Integer>> ans=new ArrayList<>();
-
+    List<List<Integer>> answer;
     public List<List<Integer>> permute(int[] nums) {
-        List<Integer> tem=new ArrayList<>();
+        answer=new ArrayList<>();
+
         boolean[] visited=new boolean[nums.length];
-        permutate(nums,tem,visited);
-        return ans;
+
+        traverse(new ArrayList<>(),nums,visited);
+
+        return answer;
+    
     }
 
-    public void permutate(int[] num,List<Integer> tem,boolean[] visited){
-        if(tem.size()>num.length) return;
-        if(tem.size()==num.length){
-            ans.add(new ArrayList<>(tem));
+    public void traverse(List<Integer> temp,int[] nums,boolean[] visited){
+        if(temp.size()==nums.length){
+            answer.add(new ArrayList<>(temp));
             return;
         }
 
-        for(int i=0;i<num.length;i++){
-            if(visited[i]) continue;
-            visited[i]=true;
-            tem.add(num[i]);
-            permutate(num,tem,visited);
-            tem.remove(tem.size()-1);
-            visited[i]=false;
+        for(int i=0;i<nums.length;i++){
+            if(visited[i])continue;
 
+            int n=nums[i];
+            visited[i]=true;
+            temp.add(n);
+            traverse(temp,nums,visited);
+            temp.remove(temp.size()-1);
+            visited[i]=false;
         }
     }
+
+
+
 }
