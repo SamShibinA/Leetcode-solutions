@@ -4,7 +4,7 @@ class Solution {
 
         for(int n:nums)if(n==0)zc++;
         if(zc==nums.length) return 0;
-        
+
         for(int i=0;i<queries.length;i++){
             int start=queries[i][0];
             int end=queries[i][1];
@@ -18,9 +18,9 @@ class Solution {
                         zc++;
                     }
 
-                    if(zc==nums.length) return i+1;
                 }
             }
+            if(zc==nums.length) return i+1;
         }
         return -1;
         
