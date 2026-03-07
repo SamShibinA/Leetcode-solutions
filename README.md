@@ -16,6 +16,7 @@ The solution for leetcode problems
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Math
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +79,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 <!---LeetCode Topics End-->
