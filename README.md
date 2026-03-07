@@ -16,6 +16,7 @@ The solution for leetcode problems
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
 ## Math
@@ -33,6 +34,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,20 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
