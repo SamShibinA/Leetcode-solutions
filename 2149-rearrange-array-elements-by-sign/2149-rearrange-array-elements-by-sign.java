@@ -2,19 +2,18 @@ class Solution {
     public int[] rearrangeArray(int[] nums) {
         int no=nums.length;
         int[] answer=new int[no];
-        int p=0,n=0;
+        int p=0,n=1;
 
-        for(int i=0;i<no;i++){
-            while(nums[p] < 0){
-                p++;
+        for(int num:nums){
+            if(num>0){
+                answer[p]=num;
+                p+=2;
             }
-
-            while(nums[n]>0){
-                n++;
+            else{
+                answer[n]=num;
+                n+=2;
             }
-
-            answer[i++]=nums[p++];
-            answer[i]=nums[n++];
+           
         }
         return answer;
     }
