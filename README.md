@@ -11,6 +11,7 @@ The solution for leetcode problems
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
@@ -118,4 +119,9 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
