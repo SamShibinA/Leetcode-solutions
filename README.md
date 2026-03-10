@@ -54,6 +54,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -132,6 +133,7 @@ The solution for leetcode problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -145,4 +147,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
