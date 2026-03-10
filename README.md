@@ -6,6 +6,7 @@ The solution for leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -44,6 +45,7 @@ The solution for leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -51,6 +53,7 @@ The solution for leetcode problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -59,6 +62,7 @@ The solution for leetcode problems
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
