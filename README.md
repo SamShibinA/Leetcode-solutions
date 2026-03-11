@@ -7,6 +7,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -88,6 +89,7 @@ The solution for leetcode problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 ## Sliding Window
@@ -144,6 +146,7 @@ The solution for leetcode problems
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
