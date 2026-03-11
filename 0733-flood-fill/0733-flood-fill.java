@@ -1,36 +1,23 @@
 class Solution {
-    int[][] image;
-    boolean[][] visited;
-    int row_size,col_size;
-
+    int m,n;
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        this.image=image;
-        this.row_size=image.length;
-        this.col_size=image[0].length;
-        this.visited=new boolean[row_size][col_size];
-        if(isValid(sr,sc,image[sr][sc])) dfs(sr,sc,color,image[sr][sc]);
+        this.m=image.length;
+        this.n=image[0].length;
+
+        dfs(image,sr,sc,image[sr][sc],color);
 
         return image;
 
     }
 
-    public void dfs(int i ,int j,int color,int target){
-        image[i][j]=color;
-        visited[i][j]=true;
+    public void dfs(int[][] image,int r,int c,int target,int change){
+        if(r<0||r>=m||c<0||c>=n||image[r][c]!=target || target==change)return;
 
-        int[] dir_i={-1,0,1,0};
-        int[] dir_j={0,1,0,-1};
+        image[r][c]=change;
 
-        for(int d=0;d<4;d++){
-            int new_i=i+dir_i[d];
-            int new_j=j+dir_j[d];
-            if(isValid(new_i,new_j,target)) dfs(new_i,new_j,color,target);
-        }
-
-
-    }
-
-    public boolean isValid(int i,int j,int target){
-        return i>=0 && i<row_size && j>=0 && j<col_size && !visited[i][j] && image[i][j]==target; 
+        dfs(image,r-1,c,target,change);
+        dfs(image,r,c+1,target,change);
+        dfs(image,r+1,c,target,change);
+        dfs(image,r,c-1,target,change);
     }
 }
