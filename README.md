@@ -8,6 +8,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -68,6 +69,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
