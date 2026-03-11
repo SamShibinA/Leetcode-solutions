@@ -1,8 +1,17 @@
 class Solution {
     public int climbStairs(int n) {
-        if(n<=0)return 0;
-        if(n==1)return 1;
-        if(n==2)return 2;
-        return climbStairs(n-1) +climbStairs(n-2);
+        int[] dp=new int[n+1];
+        Arrays.fill(dp,-1);
+        return find(dp,n);
+    }
+
+    public int find(int[] dp,int n){
+        if(n<=2)return n;
+
+        if(dp[n]!=-1) return dp[n];
+
+        dp[n]=find(dp,n-1)+find(dp,n-2);
+
+        return dp[n];
     }
 }
