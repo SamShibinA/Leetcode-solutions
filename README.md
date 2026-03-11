@@ -6,6 +6,7 @@ The solution for leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -116,6 +117,7 @@ The solution for leetcode problems
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
