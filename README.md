@@ -103,6 +103,7 @@ The solution for leetcode problems
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1009-complement-of-base-10-integer](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 ## Binary Search
