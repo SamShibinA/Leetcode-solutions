@@ -21,6 +21,7 @@ The solution for leetcode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -190,6 +191,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,4 +206,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 <!---LeetCode Topics End-->
