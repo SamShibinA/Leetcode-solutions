@@ -32,6 +32,7 @@ The solution for leetcode problems
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -192,6 +193,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+| [2865-beautiful-towers-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2865-beautiful-towers-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
 <!---LeetCode Topics End-->
