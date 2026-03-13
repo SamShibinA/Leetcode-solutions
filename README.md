@@ -20,6 +20,7 @@ The solution for leetcode problems
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [0941-valid-mountain-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
