@@ -64,6 +64,7 @@ The solution for leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
