@@ -19,6 +19,7 @@ The solution for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0704-binary-search](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0941-valid-mountain-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
@@ -135,6 +136,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
