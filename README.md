@@ -19,6 +19,7 @@ The solution for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0941-valid-mountain-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
@@ -81,6 +82,7 @@ The solution for leetcode problems
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
