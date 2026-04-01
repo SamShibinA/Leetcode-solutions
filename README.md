@@ -52,6 +52,7 @@ The solution for leetcode problems
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/SamShibinA/Leetcode-solutions/tree/master/0050-powx-n) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -99,6 +101,7 @@ The solution for leetcode problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
@@ -113,6 +116,7 @@ The solution for leetcode problems
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
