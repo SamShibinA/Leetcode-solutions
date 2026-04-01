@@ -75,6 +75,7 @@ The solution for leetcode problems
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
+| [3407-substring-matching-pattern](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3407-substring-matching-pattern/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,4 +227,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2865-beautiful-towers-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2865-beautiful-towers-i/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3407-substring-matching-pattern](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3407-substring-matching-pattern/) | Easy |
 <!---LeetCode Topics End-->
