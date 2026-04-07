@@ -42,6 +42,7 @@ The solution for leetcode problems
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
+| [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@ The solution for leetcode problems
 | [0566-reshape-the-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
