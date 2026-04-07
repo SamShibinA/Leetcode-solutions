@@ -40,6 +40,7 @@ The solution for leetcode problems
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
 | [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
@@ -142,6 +143,7 @@ The solution for leetcode problems
 | [1009-complement-of-base-10-integer](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k/) | Medium |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
