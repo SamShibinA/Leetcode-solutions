@@ -29,6 +29,7 @@ The solution for leetcode problems
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
@@ -93,6 +94,7 @@ The solution for leetcode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 ## Sorting
@@ -104,6 +106,7 @@ The solution for leetcode problems
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
