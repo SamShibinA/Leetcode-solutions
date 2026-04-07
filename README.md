@@ -83,6 +83,7 @@ The solution for leetcode problems
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [3407-substring-matching-pattern](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3407-substring-matching-pattern/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +194,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
