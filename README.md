@@ -21,6 +21,7 @@ The solution for leetcode problems
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -133,6 +134,7 @@ The solution for leetcode problems
 | [0070-climbing-stairs](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 ## Sliding Window
@@ -183,6 +185,7 @@ The solution for leetcode problems
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -249,4 +252,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3407-substring-matching-pattern](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3407-substring-matching-pattern/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
