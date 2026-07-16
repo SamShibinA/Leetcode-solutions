@@ -1,14 +1,21 @@
 class Solution {
     public int countDigitOccurrences(int[] nums, int digit) {
-        int ans=0;
+        int count = 0;
 
-        for(int n:nums){
-            while(n>0){
-                if(n%10==digit)ans++;
-                n/=10;
+        for (int num : nums) {
+            if (num == 0) {
+                if (digit == 0) count++;
+                continue;
+            }
+
+            while (num > 0) {
+                if (num % 10 == digit) {
+                    count++;
+                }
+                num /= 10;
             }
         }
 
-        return ans;
+        return count;
     }
 }
