@@ -48,6 +48,7 @@ The solution for leetcode problems
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
 | [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3895-count-digit-appearances](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ The solution for leetcode problems
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
+| [3895-count-digit-appearances](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
