@@ -47,6 +47,7 @@ The solution for leetcode problems
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3314-construct-the-minimum-bitwise-array-i/) | Easy |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
 | [3429-special-array-i](https://github.com/SamShibinA/Leetcode-solutions/tree/master/3429-special-array-i) |
+| [3446-sort-matrix-by-diagonals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3895-count-digit-appearances](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
 ## Math
@@ -75,6 +76,7 @@ The solution for leetcode problems
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +115,7 @@ The solution for leetcode problems
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
+| [3446-sort-matrix-by-diagonals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
