@@ -3,7 +3,7 @@ class Solution {
         int n=grid.length;
 
 
-        for(int i=n-1;i>=0;i--){
+        for(int i=n-1;i>0;i--){
             List<Integer> l=new ArrayList<>();
             for(int j=0;j<n;j++){
                 if(i+j<n && j<n)
