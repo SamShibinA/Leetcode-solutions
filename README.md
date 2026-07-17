@@ -32,6 +32,7 @@ The solution for leetcode problems
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
@@ -114,12 +115,14 @@ The solution for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [3282-reach-end-of-array-with-max-score](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3282-reach-end-of-array-with-max-score/) | Medium |
@@ -204,6 +207,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
