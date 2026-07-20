@@ -28,6 +28,7 @@ The solution for leetcode problems
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0941-valid-mountain-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0941-valid-mountain-array/) | Easy |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
+| [1260-shift-2d-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1381-design-a-stack-with-increment-operation](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1381-design-a-stack-with-increment-operation/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
@@ -75,6 +76,7 @@ The solution for leetcode problems
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
+| [1260-shift-2d-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -205,6 +207,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1260-shift-2d-grid](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1409-queries-on-a-permutation-with-key](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
