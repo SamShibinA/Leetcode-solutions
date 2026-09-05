@@ -55,6 +55,7 @@ The solution for leetcode problems
 | [3446-sort-matrix-by-diagonals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3895-count-digit-appearances](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ The solution for leetcode problems
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [3356-zero-array-transformation-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3356-zero-array-transformation-ii/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
