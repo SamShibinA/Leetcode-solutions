@@ -287,4 +287,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1393-capital-gainloss](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1393-capital-gainloss/) | Medium |
 <!---LeetCode Topics End-->
