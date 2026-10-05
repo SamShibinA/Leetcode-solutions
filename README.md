@@ -37,6 +37,7 @@ The solution for leetcode problems
 | [1582-special-positions-in-a-binary-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2191-sort-the-jumbled-numbers](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2191-sort-the-jumbled-numbers/) | Medium |
@@ -62,6 +63,7 @@ The solution for leetcode problems
 | [0050-powx-n](https://github.com/SamShibinA/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2750-ways-to-split-array-into-good-subarrays/) | Medium |
 | [3895-count-digit-appearances](https://github.com/SamShibinA/Leetcode-solutions/tree/main/3895-count-digit-appearances/) | Medium |
@@ -111,6 +113,7 @@ The solution for leetcode problems
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2598-smallest-missing-non-negative-integer-after-operations/) | Medium |
 ## Sorting
@@ -165,6 +168,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -291,4 +295,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1393-capital-gainloss](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1393-capital-gainloss/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
 <!---LeetCode Topics End-->
