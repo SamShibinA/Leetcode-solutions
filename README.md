@@ -60,6 +60,7 @@ The solution for leetcode problems
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0050-powx-n](https://github.com/SamShibinA/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
@@ -91,6 +92,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0012-integer-to-roman](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -103,6 +105,7 @@ The solution for leetcode problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
