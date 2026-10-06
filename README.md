@@ -25,6 +25,7 @@ The solution for leetcode problems
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
@@ -120,6 +121,7 @@ The solution for leetcode problems
 | [0242-valid-anagram](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [1630-arithmetic-subarrays](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1630-arithmetic-subarrays/) | Medium |
@@ -156,6 +158,7 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1442-count-triplets-that-can-form-two-arrays-of-equal-xor/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
