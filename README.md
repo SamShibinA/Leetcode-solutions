@@ -6,6 +6,7 @@ The solution for leetcode problems
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -143,6 +144,7 @@ The solution for leetcode problems
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2170-minimum-operations-to-make-the-array-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2170-minimum-operations-to-make-the-array-alternating/) | Medium |
@@ -234,6 +236,7 @@ The solution for leetcode problems
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
