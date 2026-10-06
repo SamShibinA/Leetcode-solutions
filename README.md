@@ -96,6 +96,7 @@ The solution for leetcode problems
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -111,6 +112,7 @@ The solution for leetcode problems
 | [0128-longest-consecutive-sequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0697-degree-of-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0697-degree-of-an-array/) | Easy |
@@ -126,6 +128,7 @@ The solution for leetcode problems
 | [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
