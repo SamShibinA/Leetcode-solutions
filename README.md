@@ -13,6 +13,7 @@ The solution for leetcode problems
 | [0053-maximum-subarray](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
@@ -131,6 +132,7 @@ The solution for leetcode problems
 | [0015-3sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -238,6 +240,7 @@ The solution for leetcode problems
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -318,4 +321,9 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
