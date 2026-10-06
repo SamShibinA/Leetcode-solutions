@@ -314,4 +314,8 @@ The solution for leetcode problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SamShibinA/Leetcode-solutions/tree/main/2001-number-of-pairs-of-interchangeable-rectangles/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
