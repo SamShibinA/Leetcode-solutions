@@ -91,6 +91,7 @@ The solution for leetcode problems
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
@@ -106,6 +107,7 @@ The solution for leetcode problems
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -167,6 +169,7 @@ The solution for leetcode problems
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/SamShibinA/Leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1052-grumpy-bookstore-owner](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1052-grumpy-bookstore-owner/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SamShibinA/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
